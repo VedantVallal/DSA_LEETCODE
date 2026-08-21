@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VedantVallal/DSA_LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/VedantVallal/DSA_LEETCODE/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/VedantVallal/DSA_LEETCODE/tree/master/0283-move-zeroes) |
 | [0912-sort-an-array](https://github.com/VedantVallal/DSA_LEETCODE/tree/master/0912-sort-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/VedantVallal/DSA_LEETCODE/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Divide and Conquer
@@ -49,4 +50,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VedantVallal/DSA_LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/VedantVallal/DSA_LEETCODE/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/VedantVallal/DSA_LEETCODE/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
