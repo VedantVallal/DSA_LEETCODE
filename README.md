@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/VedantVallal/DSA_LEETCODE/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/VedantVallal/DSA_LEETCODE/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/VedantVallal/DSA_LEETCODE/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/VedantVallal/DSA_LEETCODE/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/VedantVallal/DSA_LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0912-sort-an-array](https://github.com/VedantVallal/DSA_LEETCODE/tree/master/0912-sort-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/VedantVallal/DSA_LEETCODE/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -69,4 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VedantVallal/DSA_LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/VedantVallal/DSA_LEETCODE/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/VedantVallal/DSA_LEETCODE/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
