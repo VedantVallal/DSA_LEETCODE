@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/VedantVallal/DSA_LEETCODE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/VedantVallal/DSA_LEETCODE/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/VedantVallal/DSA_LEETCODE/tree/master/0189-rotate-array) |
+| [1903-largest-odd-number-in-string](https://github.com/VedantVallal/DSA_LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 ## Array
 |  |
 | ------- |
@@ -84,4 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/VedantVallal/DSA_LEETCODE/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/VedantVallal/DSA_LEETCODE/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/VedantVallal/DSA_LEETCODE/tree/master/1991-find-the-middle-index-in-array) |
+## String
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/VedantVallal/DSA_LEETCODE/tree/master/1903-largest-odd-number-in-string) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/VedantVallal/DSA_LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
