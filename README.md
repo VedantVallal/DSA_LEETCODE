@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VedantVallal/DSA_LEETCODE/tree/master/0001-two-sum) |
+| [0205-isomorphic-strings](https://github.com/VedantVallal/DSA_LEETCODE/tree/master/0205-isomorphic-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/VedantVallal/DSA_LEETCODE/tree/master/0014-longest-common-prefix) |
+| [0205-isomorphic-strings](https://github.com/VedantVallal/DSA_LEETCODE/tree/master/0205-isomorphic-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/VedantVallal/DSA_LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
