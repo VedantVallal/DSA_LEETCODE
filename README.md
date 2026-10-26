@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VedantVallal/DSA_LEETCODE/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/VedantVallal/DSA_LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VedantVallal/DSA_LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/VedantVallal/DSA_LEETCODE/tree/master/0031-next-permutation) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VedantVallal/DSA_LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -88,9 +89,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/VedantVallal/DSA_LEETCODE/tree/master/0014-longest-common-prefix) |
 | [1903-largest-odd-number-in-string](https://github.com/VedantVallal/DSA_LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/VedantVallal/DSA_LEETCODE/tree/master/1903-largest-odd-number-in-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/VedantVallal/DSA_LEETCODE/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
