@@ -35,10 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/VedantVallal/DSA_LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/VedantVallal/DSA_LEETCODE/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/VedantVallal/DSA_LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/VedantVallal/DSA_LEETCODE/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/VedantVallal/DSA_LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/VedantVallal/DSA_LEETCODE/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -55,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/VedantVallal/DSA_LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/VedantVallal/DSA_LEETCODE/tree/master/0912-sort-an-array) |
 ## Two Pointers
 |  |
@@ -72,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/VedantVallal/DSA_LEETCODE/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/VedantVallal/DSA_LEETCODE/tree/master/0205-isomorphic-strings) |
+| [0451-sort-characters-by-frequency](https://github.com/VedantVallal/DSA_LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -92,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/VedantVallal/DSA_LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/VedantVallal/DSA_LEETCODE/tree/master/0205-isomorphic-strings) |
+| [0451-sort-characters-by-frequency](https://github.com/VedantVallal/DSA_LEETCODE/tree/master/0451-sort-characters-by-frequency) |
 | [1903-largest-odd-number-in-string](https://github.com/VedantVallal/DSA_LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
