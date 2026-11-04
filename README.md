@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/VedantVallal/DSA_LEETCODE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/VedantVallal/DSA_LEETCODE/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/VedantVallal/DSA_LEETCODE/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/VedantVallal/DSA_LEETCODE/tree/master/0189-rotate-array) |
 | [1903-largest-odd-number-in-string](https://github.com/VedantVallal/DSA_LEETCODE/tree/master/1903-largest-odd-number-in-string) |
 ## Array
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/VedantVallal/DSA_LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VedantVallal/DSA_LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/VedantVallal/DSA_LEETCODE/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/VedantVallal/DSA_LEETCODE/tree/master/0048-rotate-image) |
 | [0118-pascals-triangle](https://github.com/VedantVallal/DSA_LEETCODE/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/VedantVallal/DSA_LEETCODE/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VedantVallal/DSA_LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/VedantVallal/DSA_LEETCODE/tree/master/0014-longest-common-prefix) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/VedantVallal/DSA_LEETCODE/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
