@@ -10,6 +10,8 @@ public:
             l=i+1;
             r=n-1;
             if(i>0 && nums[i]==nums[i-1])continue;
+
+            
             while(l<r){
                 sum=nums[l]+nums[r];
                           if (i > 0 && nums[i] == nums[i - 1])
@@ -25,6 +27,9 @@ public:
 
                     while (l < r && nums[r] == nums[r + 1])
                         r--;
+
+
+
                 }else if(sum > -nums[i]){
                     r--;
                 }else{
